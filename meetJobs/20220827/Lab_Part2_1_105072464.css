@@ -1,0 +1,30 @@
+h1{
+    color: red;
+    text-align: center;
+    background-color: blueviolet;
+}
+h2{
+    color: orange;
+    text-align: center;
+    background-color: cyan;
+}
+h3{
+    color: yellow;
+    text-align: center;
+    background-color:darkgreen;
+}
+h4{
+    color: green;
+    text-align: center;
+    background-color:gold;
+}
+h5{
+    color: blue;
+    text-align: center;
+    background-color: coral;
+}
+h6{
+    color: purple;
+    text-align: center;
+    background-color: crimson;
+}
